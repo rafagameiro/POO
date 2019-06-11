@@ -1,0 +1,31 @@
+UPLOAD
+6 5
+ # ##
+ #O# 
+P### 
+. W# 
+..B  
+..   
+REBEL
+Jyn
+1 1
+START
+MOVE
+D
+MOVE
+D
+MOVE
+D
+MOVE
+D
+MOVE
+D
+LIST STORMTROOPERS
+LIST ALL
+MOVE
+R
+MOVE
+U
+PRINT
+EXIT
+

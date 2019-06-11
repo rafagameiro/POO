@@ -1,0 +1,112 @@
+UPLOAD
+6 5
+ # ##
+ #O# 
+P### 
+. W# 
+..B  
+..   
+REBEL
+Jyn
+1 1
+START
+MOVE
+D
+MOVE
+D
+RESET
+PRINT
+START
+UPLOAD
+9 27
+.....OOO.......WWW.........
+.......  ......   ........#
+P######  ######   #######P#
+..#......#...........#....#
+..###....#...........#....#
+..#......#...........#....#
+..#.......######.....#....#
+............... ...........
+...........BBBB............
+REBEL
+Jyn
+3 8
+REBEL
+Cassian
+3 18
+REBEL
+K-2SO
+8 16
+START
+MOVE
+D U L
+MOVE
+D R
+MOVE
+D R
+MOVE
+D R
+MOVE
+D R
+MOVE
+L R
+MOVE
+L R
+MOVE
+L R
+MOVE
+L R
+MOVE
+L D
+MOVE
+L U
+MOVE
+U L
+MOVE
+U L
+MOVE
+U L
+MOVE
+U L
+MOVE
+L L
+MOVE
+U L
+MOVE
+D L
+MOVE
+D L
+LIST REBELS
+LIST STORMTROOPERS
+LIST ALL
+MOVE
+D D
+MOVE
+D D
+MOVE
+D D
+LIST PATH
+Jyn
+LIST PATH
+Cassian
+MOVE
+D D
+MOVE
+R D
+MOVE
+R D
+MOVE
+R D
+MOVE
+R L
+MOVE
+R L
+MOVE
+R L
+MOVE
+R R
+MOVE
+R L
+LIST PRISONERS
+ST-B-10
+EXIT

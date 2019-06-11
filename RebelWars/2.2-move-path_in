@@ -1,0 +1,34 @@
+UPLOAD
+6 5
+ # ##
+ #O# 
+.### 
+. W# 
+..B  
+..   
+REBEL
+Jyn
+1 1
+START
+MOVE
+D
+MOVE
+D
+MOVE
+U
+MOVE
+D
+MOVE
+D
+MOVE
+D
+MOVE
+D
+MOVE
+R
+MOVE
+U
+LIST PATH
+Jyn
+EXIT
+

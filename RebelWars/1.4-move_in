@@ -1,0 +1,35 @@
+UPLOAD
+3 3
+ ..
+##.
+...
+REBEL
+Jyn
+1 1
+MOVE
+D
+START
+MOVE
+D
+PRINT
+MOVE
+R
+MOVE
+R
+MOVE
+R
+PRINT
+MOVE
+D
+MOVE
+U
+MOVE
+D
+MOVE
+D
+MOVE
+L
+MOVE
+L
+EXIT
+
